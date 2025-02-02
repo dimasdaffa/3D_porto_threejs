@@ -1,0 +1,11 @@
+Model Information:
+* title:	This is fine
+* source:	https://sketchfab.com/3d-models/this-is-fine-2f0cc4d2bda64f1d9a6bb5c5a5ae203e
+* author:	miguiASV (https://sketchfab.com/miguiASV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "This is fine" (https://sketchfab.com/3d-models/this-is-fine-2f0cc4d2bda64f1d9a6bb5c5a5ae203e) by miguiASV (https://sketchfab.com/miguiASV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
