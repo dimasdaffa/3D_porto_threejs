@@ -24,7 +24,7 @@ import threejs from "./tech/threejs.png";
 import doscom from "./company/doscom.png";
 import kampus from "./company/kampus.png";
 
-import carrent from "./carrent.png";
+import object from "./object.png";
 
 export {
   logo,
@@ -50,5 +50,5 @@ export {
   threejs,
   doscom,
   kampus,
-  carrent,
+  object,
 };

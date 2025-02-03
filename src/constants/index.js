@@ -17,7 +17,7 @@ import {
   python,
   doscom,
   kampus,
-  carrent,
+  object,
   threejs,
 } from "../assets";
 
@@ -194,7 +194,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: object,
     source_code_link: "https://github.com/dimasdaffa/fashion-object-detection.git",
   },
   {
@@ -215,7 +215,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: object,
     source_code_link: "https://github.com/dimasdaffa/hateDetection-ETH.git",
   },
 ];
