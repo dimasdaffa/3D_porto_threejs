@@ -14,12 +14,10 @@ import {
   mysql,
   git,
   figma,
-  docker,
+  python,
   doscom,
   kampus,
   carrent,
-  jobit,
-  tripguide,
   threejs,
 } from "../assets";
 
@@ -47,7 +45,10 @@ const services = [
     title: "Flutter Developer",
     icon: mobile,
   },
-
+  {
+    title: "Machine Learning Engineer",
+    icon: backend,
+  },
   {
     title: "Photographer",
     icon: creator,
@@ -104,8 +105,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "python",
+    icon: python,
   },
 ];
 
@@ -176,67 +177,46 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Fashion Object Detection",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: [
       {
-        name: "react",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "jupyter",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "yolov8",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/dimasdaffa/fashion-object-detection.git",
   },
   {
-    name: "Job IT",
+    name: "Hate Speech Detection",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: [
       {
-        name: "react",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "logisticregression",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "streamlit",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: carrent,
+    source_code_link: "https://github.com/dimasdaffa/hateDetection-ETH.git",
   },
 ];
 

@@ -8,7 +8,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
+import python from "./tech/python.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -25,8 +25,6 @@ import doscom from "./company/doscom.png";
 import kampus from "./company/kampus.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 
 export {
   logo,
@@ -38,7 +36,7 @@ export {
   menu,
   close,
   css,
-  docker,
+  python,
   figma,
   git,
   html,
@@ -53,6 +51,4 @@ export {
   doscom,
   kampus,
   carrent,
-  jobit,
-  tripguide,
 };
