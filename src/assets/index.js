@@ -13,13 +13,13 @@ import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
+import mysql from "./tech/mysql.png";
+import laravel from "./tech/laravel.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import bootstrap from "./tech/bootstrap.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import flutter from "./tech/flutter.png";
+import threejs from "./tech/threejs.png";
 
 import doscom from "./company/doscom.png";
 import kampus from "./company/kampus.png";
@@ -43,12 +43,12 @@ export {
   git,
   html,
   javascript,
-  mongodb,
-  nodejs,
+  mysql,
+  laravel,
   reactjs,
-  redux,
+  bootstrap,
   tailwind,
-  typescript,
+  flutter,
   threejs,
   doscom,
   kampus,
