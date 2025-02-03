@@ -23,6 +23,9 @@ import threejs from "./tech/threejs.png";
 
 import doscom from "./company/doscom.png";
 import kampus from "./company/kampus.png";
+import du from "./company/du.png";
+import rp from "./company/rp.png";
+import udinus from "./company/udinus.png";
 
 import object from "./object.png";
 
@@ -49,6 +52,9 @@ export {
   flutter,
   threejs,
   doscom,
+  du,
+  rp,
+  udinus,
   kampus,
   object,
 };
